@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+body{
+    background-image: url(../media/paint3.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+}
+
+.ans{
+    margin-left:35px;
+    color: black;
+}
+
+.order{
+    margin-left: 50%;
+    width: 35vw;
+    height: auto;
+    margin: 12vh auto;
+    padding: 4vh;
+    color: rgb(16, 111, 235);
+}

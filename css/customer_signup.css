@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+body{
+    background-image: url(../media/paint3.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+}
+
+.signup{
+    margin-left: 50%;
+    width: 50vw;
+    height: auto;
+    margin: 16vh auto;
+    padding: 4vh;
+    background-color: azure;
+    color: rgb(16, 111, 235);
+}
